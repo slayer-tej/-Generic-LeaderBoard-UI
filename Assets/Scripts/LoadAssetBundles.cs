@@ -9,7 +9,7 @@ public class LoadAssetBundles : MonoBehaviour
     [SerializeField]
     private string assetName;
     private AssetBundle remoteAssetBundle;
-
+    
     // Start is called before the first frame update
     IEnumerator Start()
     {
