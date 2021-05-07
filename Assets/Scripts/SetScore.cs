@@ -18,5 +18,13 @@ public class SetScore : MonoBehaviour
         entryNameText.text = scoreBoardEntryData.entryName;
         entryScoreText.text = scoreBoardEntryData.entryScore.ToString();
     }
+    public void Enable()
+    {
+        gameObject.SetActive(true);
+    }
+    public void Disable()
+    {
+        gameObject.SetActive(false);
+    }
 
 }

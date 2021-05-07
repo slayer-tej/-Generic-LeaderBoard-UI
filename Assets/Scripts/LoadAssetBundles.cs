@@ -26,9 +26,9 @@ public class LoadAssetBundles : MonoBehaviour
         }
     }
 
-    public Object GetBundleObject()
+    public GameObject GetBundleObject()
     {
-        Object obj = remoteAssetBundle.LoadAsset<Object>(assetName);
+        GameObject obj = remoteAssetBundle.LoadAsset<GameObject>(assetName);
         return obj;
     }
 }

@@ -1,4 +1,6 @@
 ﻿using System.Collections.Generic;
+using System;
+using UnityEngine;
 
 public class PoolingService<T> : MonoSingletonGeneric<PoolingService<T>> where T : class
 {
@@ -12,6 +14,7 @@ public class PoolingService<T> : MonoSingletonGeneric<PoolingService<T>> where T
             if (pooledItem != null)
             {
                 pooledItem.isActive = true;
+                Debug.Log("Got item from Pool");
                 return pooledItem.item;
             }
         }
@@ -22,6 +25,7 @@ public class PoolingService<T> : MonoSingletonGeneric<PoolingService<T>> where T
     {
         poolingItem<T> poolingItem = pooledItems.Find(i => i.item.Equals(item));
         poolingItem.isActive = false;
+        Debug.Log("Returned Item to pool");
     }
 
     private T CreateNewPooledItem()
@@ -30,7 +34,6 @@ public class PoolingService<T> : MonoSingletonGeneric<PoolingService<T>> where T
         poolItem.item = CreateItem();
         poolItem.isActive = true;
         pooledItems.Add(poolItem);
-        //print(pooledItems.Count + "Instance Created" );
         return poolItem.item;
     }
 
@@ -39,9 +42,9 @@ public class PoolingService<T> : MonoSingletonGeneric<PoolingService<T>> where T
         return (T)null;
     }
 
-    public class poolingItem<U>
+    public class poolingItem<T>
     {
-        public U item;
+        public T item;
         public bool isActive;
     }
 }
