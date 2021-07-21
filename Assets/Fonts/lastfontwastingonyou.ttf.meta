@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9a06bc9e7a7d65749b416fab764c6f6f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: The Last Font I'm Wasting On You
+  fontNames:
+  - The Last Font I'm Wasting On You
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 64e96f2d7b5bc404dbcb86a5d085cf71, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

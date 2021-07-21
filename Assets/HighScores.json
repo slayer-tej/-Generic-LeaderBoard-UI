@@ -1,0 +1,404 @@
+{
+    "highScores": [
+   {
+    "entryName": "Wade Dixon",
+    "entryScore": 32
+  },
+  {
+    "entryName": "Genevieve Berry",
+    "entryScore": 40
+  },
+  {
+    "entryName": "Wilma Farrell",
+    "entryScore": 33
+  },
+  {
+    "entryName": "Chandra Chapman",
+    "entryScore": 33
+  },
+  {
+    "entryName": "Sonja Washington",
+    "entryScore": 25
+  },
+  {
+    "entryName": "Elvira Peck",
+    "entryScore": 20
+  },
+  {
+    "entryName": "Inez Vargas",
+    "entryScore": 30
+  },
+  {
+    "entryName": "Nichole Jordan",
+    "entryScore": 37
+  },
+  {
+    "entryName": "Stevens Obrien",
+    "entryScore": 36
+  },
+  {
+    "entryName": "Helga Cross",
+    "entryScore": 27
+  },
+  {
+    "entryName": "Hansen Vincent",
+    "entryScore": 33
+  },
+  {
+    "entryName": "Kelly Craig",
+    "entryScore": 27
+  },
+  {
+    "entryName": "Koch Myers",
+    "entryScore": 22
+  },
+  {
+    "entryName": "Roberts Hale",
+    "entryScore": 35
+  },
+  {
+    "entryName": "Frankie Barton",
+    "entryScore": 23
+  },
+  {
+    "entryName": "Alice Owens",
+    "entryScore": 26
+  },
+  {
+    "entryName": "Kathie Fuller",
+    "entryScore": 37
+  },
+  {
+    "entryName": "Hall Franks",
+    "entryScore": 32
+  },
+  {
+    "entryName": "Tanisha Stevens",
+    "entryScore": 32
+  },
+  {
+    "entryName": "Lizzie Kim",
+    "entryScore": 34
+  },
+  {
+    "entryName": "Shepherd Hess",
+    "entryScore": 21
+  },
+  {
+    "entryName": "Cathy Flynn",
+    "entryScore": 36
+  },
+  {
+    "entryName": "Joanna Hays",
+    "entryScore": 33
+  },
+  {
+    "entryName": "Roxie Schultz",
+    "entryScore": 29
+  },
+  {
+    "entryName": "Mckinney Cantu",
+    "entryScore": 37
+  },
+  {
+    "entryName": "Lane Russo",
+    "entryScore": 32
+  },
+  {
+    "entryName": "French Cleveland",
+    "entryScore": 22
+  },
+  {
+    "entryName": "Danielle Harrington",
+    "entryScore": 24
+  },
+  {
+    "entryName": "Rosemarie Cochran",
+    "entryScore": 34
+  },
+  {
+    "entryName": "Ingram Guthrie",
+    "entryScore": 24
+  },
+  {
+    "entryName": "Barbara Rhodes",
+    "entryScore": 25
+  },
+  {
+    "entryName": "Jayne Solis",
+    "entryScore": 23
+  },
+  {
+    "entryName": "Browning Lawrence",
+    "entryScore": 33
+  },
+  {
+    "entryName": "Vilma Hart",
+    "entryScore": 35
+  },
+  {
+    "entryName": "Booker Jones",
+    "entryScore": 29
+  },
+  {
+    "entryName": "Lakisha Carver",
+    "entryScore": 26
+  },
+  {
+    "entryName": "Martinez Barnes",
+    "entryScore": 27
+  },
+  {
+    "entryName": "PentryScore Hanson",
+    "entryScore": 35
+  },
+  {
+    "entryName": "Jaclyn Mcleod",
+    "entryScore": 21
+  },
+  {
+    "entryName": "Jana Leach",
+    "entryScore": 33
+  },
+  {
+    "entryName": "Natalia Perry",
+    "entryScore": 23
+  },
+  {
+    "entryName": "Pam Reid",
+    "entryScore": 38
+  },
+  {
+    "entryName": "Lynette Church",
+    "entryScore": 29
+  },
+  {
+    "entryName": "Lilly Brennan",
+    "entryScore": 36
+  },
+  {
+    "entryName": "Francesca Whitehead",
+    "entryScore": 26
+  },
+  {
+    "entryName": "Mcclure Stephens",
+    "entryScore": 23
+  },
+  {
+    "entryName": "Watkins Adams",
+    "entryScore": 22
+  },
+  {
+    "entryName": "Agnes Ashley",
+    "entryScore": 26
+  },
+  {
+    "entryName": "Dorothy Garner",
+    "entryScore": 32
+  },
+  {
+    "entryName": "Amy Matthews",
+    "entryScore": 27
+  },
+  {
+    "entryName": "Montgomery Farley",
+    "entryScore": 28
+  },
+  {
+    "entryName": "Banks Santos",
+    "entryScore": 28
+  },
+  {
+    "entryName": "Maxwell Hester",
+    "entryScore": 38
+  },
+  {
+    "entryName": "Hunter Chen",
+    "entryScore": 37
+  },
+  {
+    "entryName": "Aisha Knox",
+    "entryScore": 36
+  },
+  {
+    "entryName": "Lucile Rosario",
+    "entryScore": 39
+  },
+  {
+    "entryName": "Shelia Walters",
+    "entryScore": 33
+  },
+  {
+    "entryName": "Mcknight Bullock",
+    "entryScore": 40
+  },
+  {
+    "entryName": "Bullock Buchanan",
+    "entryScore": 22
+  },
+  {
+    "entryName": "Marcia Farmer",
+    "entryScore": 28
+  },
+  {
+    "entryName": "Allen Britt",
+    "entryScore": 33
+  },
+  {
+    "entryName": "Meadows Kidd",
+    "entryScore": 22
+  },
+  {
+    "entryName": "Hardy Chandler",
+    "entryScore": 39
+  },
+  {
+    "entryName": "Hammond Oliver",
+    "entryScore": 39
+  },
+  {
+    "entryName": "Julianne Carey",
+    "entryScore": 21
+  },
+  {
+    "entryName": "Hooper Everett",
+    "entryScore": 37
+  },
+  {
+    "entryName": "Leila Lucas",
+    "entryScore": 34
+  },
+  {
+    "entryName": "Joyner Nielsen",
+    "entryScore": 36
+  },
+  {
+    "entryName": "Mcconnell Shaffer",
+    "entryScore": 28
+  },
+  {
+    "entryName": "Brandie Tran",
+    "entryScore": 29
+  },
+  {
+    "entryName": "Penelope Mcgee",
+    "entryScore": 29
+  },
+  {
+    "entryName": "Elba Dyer",
+    "entryScore": 30
+  },
+  {
+    "entryName": "Wade Dixon",
+    "entryScore": 32
+  },
+  {
+    "entryName": "Genevieve Berry",
+    "entryScore": 40
+  },
+  {
+    "entryName": "Wilma Farrell",
+    "entryScore": 33
+  },
+  {
+    "entryName": "Chandra Chapman",
+    "entryScore": 33
+  },
+  {
+    "entryName": "Sonja Washington",
+    "entryScore": 25
+  },
+  {
+    "entryName": "Elvira Peck",
+    "entryScore": 20
+  },
+  {
+    "entryName": "Inez Vargas",
+    "entryScore": 30
+  },
+  {
+    "entryName": "Nichole Jordan",
+    "entryScore": 37
+  },
+  {
+    "entryName": "Stevens Obrien",
+    "entryScore": 36
+  },
+  {
+    "entryName": "Helga Cross",
+    "entryScore": 27
+  },
+  {
+    "entryName": "Hansen Vincent",
+    "entryScore": 33
+  },
+  {
+    "entryName": "Kelly Craig",
+    "entryScore": 27
+  },
+  {
+    "entryName": "Koch Myers",
+    "entryScore": 22
+  },
+  {
+    "entryName": "Roberts Hale",
+    "entryScore": 35
+  },
+  {
+    "entryName": "Frankie Barton",
+    "entryScore": 23
+  },
+  {
+    "entryName": "Alice Owens",
+    "entryScore": 26
+  },
+  {
+    "entryName": "Kathie Fuller",
+    "entryScore": 37
+  },
+  {
+    "entryName": "Hall Franks",
+    "entryScore": 32
+  },
+  {
+    "entryName": "Tanisha Stevens",
+    "entryScore": 32
+  },
+  {
+    "entryName": "Lizzie Kim",
+    "entryScore": 34
+  },
+  {
+    "entryName": "Shepherd Hess",
+    "entryScore": 21
+  },
+  {
+    "entryName": "Cathy Flynn",
+    "entryScore": 36
+  },
+  {
+    "entryName": "Joanna Hays",
+    "entryScore": 33
+  },
+  {
+    "entryName": "Roxie Schultz",
+    "entryScore": 29
+  },
+  {
+    "entryName": "Mckinney Cantu",
+    "entryScore": 37
+  },
+  {
+    "entryName": "Lane Russo",
+    "entryScore": 32
+  },
+  {
+    "entryName": "French Cleveland",
+    "entryScore": 22
+  },
+  {
+    "entryName": "Danielle Harrington",
+    "entryScore": 24
+  }
+   ]
+}
